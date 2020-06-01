@@ -1,0 +1,31 @@
+  819  mkdir MagiaTerminala
+  820  cd MagiaTerminala/
+  821  ls
+  822  git init 
+  823  git status 
+  824  touch processes.txt
+  825  ls
+  826  ps aux
+  827  ps aux > processes.txt 
+  828  xed processes.txt 
+  829  cp processes.txt copy.txt
+  830  ll
+  831  wc -l processes.txt 
+  832  wc -l processes.txt >> processes.txt 
+  833  xed processes.txt 
+  834  grep -nir processes.txt /bin
+  835  man grep
+  836  grep -ni /bin processes.txt 
+  837  grep -ni /bin processes.txt >> processes.txt 
+  838  xed processes.txt 
+  839  grep -ni /bin processes.txt >> processes.txt 
+  840  grep -ni /bin processes.txt | processes.txt 
+  841  grep -ni /bin processes.txt | cat
+  842  grep -ni /bin processes.txt 
+  843  grep -ni /bin processes.txt >> processes.txt 
+  844  grep -ni /bin processes.txt | cat >> processes.txt 
+  845  xed processes.txt 
+  846  history 
+  847  history | tail
+  848  history | tail -n 30
+  849  history | tail -n 31 > commands.txt

@@ -1,0 +1,228 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 225616  9400 ?        Ss   17:28   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    17:28   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   17:28   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   17:28   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   17:28   0:00 [kworker/0:0H-ev]
+root         9  0.0  0.0      0     0 ?        I<   17:28   0:00 [mm_percpu_wq]
+root        10  0.0  0.0      0     0 ?        S    17:28   0:00 [ksoftirqd/0]
+root        11  0.1  0.0      0     0 ?        I    17:28   0:24 [rcu_sched]
+root        12  0.0  0.0      0     0 ?        S    17:28   0:00 [migration/0]
+root        13  0.0  0.0      0     0 ?        S    17:28   0:00 [idle_inject/0]
+root        14  0.0  0.0      0     0 ?        S    17:28   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    17:28   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    17:28   0:00 [idle_inject/1]
+root        17  0.0  0.0      0     0 ?        S    17:28   0:00 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    17:28   0:00 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   17:28   0:01 [kworker/1:0H-ev]
+root        21  0.0  0.0      0     0 ?        S    17:28   0:00 [cpuhp/2]
+root        22  0.0  0.0      0     0 ?        S    17:28   0:00 [idle_inject/2]
+root        23  0.0  0.0      0     0 ?        S    17:28   0:00 [migration/2]
+root        24  0.0  0.0      0     0 ?        S    17:28   0:00 [ksoftirqd/2]
+root        27  0.0  0.0      0     0 ?        S    17:28   0:00 [cpuhp/3]
+root        28  0.0  0.0      0     0 ?        S    17:28   0:00 [idle_inject/3]
+root        29  0.0  0.0      0     0 ?        S    17:28   0:00 [migration/3]
+root        30  0.0  0.0      0     0 ?        S    17:28   0:00 [ksoftirqd/3]
+root        32  0.0  0.0      0     0 ?        I<   17:28   0:00 [kworker/3:0H-kb]
+root        33  0.0  0.0      0     0 ?        S    17:28   0:00 [kdevtmpfs]
+root        34  0.0  0.0      0     0 ?        I<   17:28   0:00 [netns]
+root        35  0.0  0.0      0     0 ?        S    17:28   0:00 [rcu_tasks_kthre]
+root        36  0.0  0.0      0     0 ?        S    17:28   0:00 [kauditd]
+root        39  0.0  0.0      0     0 ?        S    17:28   0:00 [khungtaskd]
+root        40  0.0  0.0      0     0 ?        S    17:28   0:00 [oom_reaper]
+root        41  0.0  0.0      0     0 ?        I<   17:28   0:00 [writeback]
+root        42  0.0  0.0      0     0 ?        S    17:28   0:00 [kcompactd0]
+root        43  0.0  0.0      0     0 ?        SN   17:28   0:00 [ksmd]
+root        44  0.0  0.0      0     0 ?        SN   17:28   0:00 [khugepaged]
+root       136  0.0  0.0      0     0 ?        I<   17:28   0:00 [kintegrityd]
+root       137  0.0  0.0      0     0 ?        I<   17:28   0:00 [kblockd]
+root       138  0.0  0.0      0     0 ?        I<   17:28   0:00 [blkcg_punt_bio]
+root       140  0.0  0.0      0     0 ?        I<   17:28   0:00 [tpm_dev_wq]
+root       141  0.0  0.0      0     0 ?        I<   17:28   0:00 [ata_sff]
+root       142  0.0  0.0      0     0 ?        I<   17:28   0:00 [md]
+root       143  0.0  0.0      0     0 ?        I<   17:28   0:00 [edac-poller]
+root       144  0.0  0.0      0     0 ?        I<   17:28   0:00 [devfreq_wq]
+root       146  0.0  0.0      0     0 ?        S    17:28   0:00 [watchdogd]
+root       149  0.0  0.0      0     0 ?        S    17:28   0:00 [kswapd0]
+root       151  0.0  0.0      0     0 ?        S    17:28   0:00 [ecryptfs-kthrea]
+root       154  0.0  0.0      0     0 ?        I<   17:28   0:00 [kthrotld]
+root       155  0.0  0.0      0     0 ?        S    17:28   0:00 [irq/122-aerdrv]
+root       156  0.0  0.0      0     0 ?        S    17:28   0:00 [irq/123-aerdrv]
+root       157  0.0  0.0      0     0 ?        S    17:28   0:00 [irq/124-aerdrv]
+root       158  0.0  0.0      0     0 ?        I<   17:28   0:00 [acpi_thermal_pm]
+root       161  0.0  0.0      0     0 ?        I<   17:28   0:00 [ipv6_addrconf]
+root       172  0.0  0.0      0     0 ?        I<   17:28   0:00 [kstrp]
+root       191  0.0  0.0      0     0 ?        I<   17:28   0:00 [charger_manager]
+root       240  0.0  0.0      0     0 ?        I<   17:28   0:00 [nvme-wq]
+root       241  0.0  0.0      0     0 ?        I<   17:28   0:00 [nvme-reset-wq]
+root       242  0.0  0.0      0     0 ?        S    17:28   0:00 [scsi_eh_0]
+root       243  0.0  0.0      0     0 ?        I<   17:28   0:00 [scsi_tmf_0]
+root       244  0.0  0.0      0     0 ?        I<   17:28   0:00 [nvme-delete-wq]
+root       249  0.0  0.0      0     0 ?        I<   17:28   0:00 [kworker/1:1H]
+root       261  0.0  0.0      0     0 ?        I<   17:28   0:01 [kworker/2:1H-ev]
+root       319  0.0  0.0      0     0 ?        I<   17:28   0:01 [kworker/0:1H-ev]
+root       371  0.0  0.0      0     0 ?        I<   17:28   0:01 [kworker/3:1H-ev]
+root       373  0.0  0.0      0     0 ?        S    17:28   0:02 [jbd2/nvme0n1p2-]
+root       374  0.0  0.0      0     0 ?        I<   17:28   0:00 [ext4-rsv-conver]
+root       421  0.0  0.1 109344 32504 ?        S<s  17:28   0:00 /lib/systemd/systemd-journald
+root       444  0.0  0.0  46876  5080 ?        Ss   17:28   0:00 /lib/systemd/systemd-udevd
+root       445  0.0  0.0  97704  1724 ?        Ss   17:28   0:00 /sbin/lvmetad -f
+root       474  0.0  0.0      0     0 ?        S    17:28   0:00 [irq/67-smo8800]
+root       506  0.0  0.0      0     0 ?        S    17:28   0:00 [irq/135-mei_me]
+root       510  0.0  0.0      0     0 ?        I<   17:28   0:00 [kmemstick]
+root       522  0.0  0.0      0     0 ?        S    17:28   0:06 [irq/51-DLL07A7:]
+root       528  0.0  0.0      0     0 ?        I<   17:28   0:00 [cfg80211]
+root       531  0.0  0.0      0     0 ?        S    17:28   0:00 [jbd2/nvme0n1p3-]
+root       533  0.0  0.0      0     0 ?        I<   17:28   0:00 [ext4-rsv-conver]
+root       546  0.4  0.0      0     0 ?        S    17:28   1:27 [irq/136-iwlwifi]
+systemd+   581  0.0  0.0 146112  3252 ?        Ssl  17:28   0:00 /lib/systemd/systemd-timesyncd
+systemd+   585  0.0  0.0  70848  6320 ?        Ss   17:28   0:00 /lib/systemd/systemd-resolved
+root       619  0.0  0.0      0     0 ?        I<   17:28   0:00 [cryptd]
+root       646  0.0  0.0 102456  8896 ?        Ss   17:28   0:00 /usr/sbin/cupsd -l
+root       653  0.0  0.1 171700 17172 ?        Ssl  17:28   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+syslog     654  0.0  0.0 263032  4228 ?        Ssl  17:28   0:00 /usr/sbin/rsyslogd -n
+message+   655  0.0  0.0  51440  5768 ?        Ss   17:28   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+kernoops   670  0.0  0.0  56940   420 ?        Ss   17:28   0:00 /usr/sbin/kerneloops --test
+root       674  0.0  0.0  45616  7896 ?        Ss   17:28   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi      676  0.0  0.0  47272  3544 ?        Ss   17:28   0:00 avahi-daemon: running [Latitude-5480.local]
+root       678  0.0  0.0 289160  7304 ?        Ssl  17:28   0:00 /usr/lib/accountsservice/accounts-daemon
+root       679  0.0  0.0 181080  9168 ?        Ssl  17:28   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       681  0.0  0.0 502936 10400 ?        Ssl  17:28   0:00 /usr/lib/udisks2/udisksd
+root       685  0.0  0.0  70700  6100 ?        Ss   17:28   0:00 /lib/systemd/systemd-logind
+root       687  0.0  0.0  32536  3056 ?        Ss   17:28   0:00 /usr/sbin/cron -f
+root       694  0.0  0.1 634584 17948 ?        Ssl  17:28   0:06 /usr/sbin/NetworkManager --no-daemon
+root       696  0.0  0.0 110484  3588 ?        Ssl  17:28   0:02 /usr/sbin/irqbalance --foreground
+avahi      701  0.0  0.0  47072   344 ?        S    17:28   0:00 avahi-daemon: chroot helper
+root       705  0.0  0.0   4548   808 ?        Ss   17:28   0:00 /usr/sbin/acpid
+root       711  0.0  0.0 434500 11188 ?        Ssl  17:28   0:06 /usr/sbin/ModemManager --filter-policy=strict
+kernoops   734  0.0  0.0  56940   420 ?        Ss   17:28   0:00 /usr/sbin/kerneloops
+root       796  0.0  0.0 298336 10404 ?        Ssl  17:28   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       797  0.0  0.0 303668 10936 ?        Ssl  17:28   0:00 /usr/sbin/cups-browsed
+colord     798  0.0  0.0 319416 14352 ?        Ssl  17:28   0:00 /usr/lib/colord/colord
+root       862  0.0  0.0 364360  6768 ?        SLsl 17:28   0:00 /usr/sbin/lightdm
+root       881  2.9  0.4 589296 75908 tty7     Ssl+ 17:28  10:32 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root       883  0.0  0.0  17396  1868 tty1     Ss+  17:28   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root       900  0.0  0.0  36600  4860 ?        Ss   17:28   0:00 /usr/lib/bluetooth/bluetoothd
+root      1020  0.0  0.0 316944  9088 ?        Ssl  17:28   0:02 /usr/lib/upower/upowerd
+root      1047  0.0  0.0 269000  7412 ?        Sl   17:28   0:00 lightdm --session-child 12 19
+root      1052  0.0  0.0 198776  6064 ?        Sl   17:28   0:00 /usr/lib/libmbim/mbim-proxy
+root      1073  0.0  0.0  25980  6136 ?        S    17:28   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp2s0.pid -lf /var/lib/NetworkManager/dhclient-ebc1506c-93c9-4340-bac5-59da3c3fb3ba-wlp2s0.lease -cf /var/lib/NetworkManager/dhclient-wlp2s0.conf wlp2s0
+krzyszt+  1176  0.0  0.0  77016  8004 ?        Ss   17:29   0:00 /lib/systemd/systemd --user
+krzyszt+  1177  0.0  0.0 280004  2988 ?        S    17:29   0:00 (sd-pam)
+krzyszt+  1193  0.0  0.0 282840  8012 ?        Sl   17:29   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+krzyszt+  1196  0.0  0.1 551584 25928 ?        Ssl  17:29   0:01 cinnamon-session --session cinnamon
+krzyszt+  1211  0.0  0.0  50944  5168 ?        Ss   17:29   0:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+krzyszt+  1262  0.0  0.0  11300   316 ?        Ss   17:29   0:00 /usr/bin/ssh-agent /usr/bin/im-launch cinnamon-session-cinnamon
+krzyszt+  1274  0.0  0.0 349432  6224 ?        Ssl  17:29   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+krzyszt+  1279  0.0  0.0  50188  4504 ?        S    17:29   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+krzyszt+  1281  0.0  0.0 220788  6852 ?        Sl   17:29   0:02 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+krzyszt+  1294  0.0  0.1 448364 22856 ?        Sl   17:29   0:01 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-keyboard
+krzyszt+  1295  0.0  0.1 485692 22172 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xrandr
+krzyszt+  1296  0.0  0.1 398812 20844 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-keyboard
+krzyszt+  1298  0.0  0.1 396368 20732 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-screensaver-proxy
+krzyszt+  1299  0.0  0.1 322608 20316 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-clipboard
+krzyszt+  1306  0.0  0.1 555452 31676 ?        Sl   17:29   0:01 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-power
+krzyszt+  1307  0.0  0.1 447304 24156 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-print-notifications
+krzyszt+  1313  0.0  0.1 482716 31140 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-background
+krzyszt+  1321  0.0  0.1 546256 20908 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-orientation
+krzyszt+  1322  0.0  0.1 322612 20376 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-cursor
+krzyszt+  1328  0.0  0.1 1119448 24432 ?       Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-media-keys
+krzyszt+  1332  0.0  0.1 398776 20584 ?        Sl   17:29   0:01 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-housekeeping
+krzyszt+  1334  0.0  0.1 382052 22876 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-wacom
+krzyszt+  1337  0.0  0.1 398860 20992 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-settings
+krzyszt+  1342  0.0  0.1 399812 22040 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xsettings
+krzyszt+  1343  0.0  0.1 842332 23712 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-sound
+krzyszt+  1344  0.0  0.1 601708 31392 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-automount
+krzyszt+  1346  0.0  0.1 724260 22744 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-color
+krzyszt+  1352  0.0  0.1 398800 21044 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-mouse
+krzyszt+  1363  0.0  0.0 286392  7156 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfsd
+krzyszt+  1371  0.0  0.0 416112  5292 ?        Sl   17:29   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+krzyszt+  1391  0.0  0.0 188088  5300 ?        Sl   17:29   0:00 /usr/lib/dconf/dconf-service
+krzyszt+  1396  1.1  0.1 1936112 17524 ?       S<l  17:29   4:01 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1397  0.0  0.0 183504  3052 ?        SNsl 17:29   0:00 /usr/lib/rtkit/rtkit-daemon
+krzyszt+  1405  0.0  0.0 503084 12472 ?        Sl   17:29   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+krzyszt+  1410  0.0  0.0 300816  8760 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+krzyszt+  1417  0.0  0.0 268412  5868 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+krzyszt+  1421  0.0  0.2 778460 33636 ?        Sl   17:29   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+krzyszt+  1430  0.0  0.0 371608  8192 ?        Sl   17:29   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+krzyszt+  1436  0.0  0.0 283072  6668 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+krzyszt+  1440  0.0  0.0 274980  6580 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+krzyszt+  1444  0.0  0.0 373132  7668 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root      1459  0.0  0.0      0     0 ?        S<   17:29   0:00 [krfcommd]
+krzyszt+  1464  0.0  0.1 187372 29372 ?        S    17:29   0:00 cinnamon-launcher
+krzyszt+  1466  5.5  0.7 3271684 122472 ?      Sl   17:29  20:04 cinnamon --replace
+krzyszt+  1481  0.0  0.1 323768 20332 ?        Sl   17:29   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+krzyszt+  1484  0.0  0.1 429532 32400 ?        Sl   17:29   0:00 blueberry-obex-agent
+krzyszt+  1487  0.0  0.3 1213156 61496 ?       Sl   17:29   0:05 nemo-desktop
+krzyszt+  1488  0.0  0.2 660204 37544 ?        Sl   17:29   0:06 nm-applet
+krzyszt+  1491  0.0  0.1 412728 29836 ?        Sl   17:29   0:00 cinnamon-killer-daemon
+krzyszt+  1501  0.0  0.0  82732  6768 ?        Ss   17:29   0:00 /usr/lib/bluetooth/obexd
+krzyszt+  1513  0.0  0.0 201016  8140 ?        Ssl  17:29   0:00 /usr/lib/gvfs/gvfsd-metadata
+krzyszt+  1565  0.0  0.0 362564  7552 ?        Sl   17:29   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.26 /org/gtk/gvfs/exec_spaw/0
+krzyszt+  1581  0.0  0.2 714596 38688 ?        Sl   17:29   0:00 blueberry-tray
+krzyszt+  1582  0.0  0.4 779188 66424 ?        Sl   17:29   0:02 cinnamon-screensaver
+krzyszt+  1595  0.0  0.0  31668 10000 ?        S    17:29   0:00 python3 /usr/lib/blueberry/safechild /usr/sbin/rfkill event
+krzyszt+  1596  0.0  0.0  10960   900 ?        S    17:29   0:00 /usr/sbin/rfkill event
+krzyszt+  1604  0.0  0.3 900660 62784 ?        Sl   17:29   0:00 mintUpdate
+krzyszt+  1639  0.0  0.2 251436 32920 ?        Sl   17:29   0:01 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+krzyszt+  1645  0.2  0.5 657560 91948 ?        Sl   17:30   1:00 mintreport-tray
+root      2448  0.0  0.0 368136 14004 ?        Ssl  17:39   0:00 /usr/lib/packagekit/packagekitd
+krzyszt+  2479  4.6  1.7 1251708 279612 ?      SLl  17:42  15:58 /opt/google/chrome/chrome
+krzyszt+  2486  0.0  0.0   8824   768 ?        S    17:42   0:00 cat
+krzyszt+  2487  0.0  0.0   8824   744 ?        S    17:42   0:00 cat
+krzyszt+  2490  0.0  0.3 459956 60580 ?        S    17:42   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox
+krzyszt+  2491  0.0  0.3 459956 60684 ?        S    17:42   0:00 /opt/google/chrome/chrome --type=zygote
+krzyszt+  2492  0.0  0.0  27332  3076 ?        S    17:42   0:00 /opt/google/chrome/nacl_helper
+krzyszt+  2493  0.0  0.0  27332  4164 ?        S    17:42   0:00 /opt/google/chrome/nacl_helper
+krzyszt+  2496  0.0  0.0 459956 15836 ?        S    17:42   0:00 /opt/google/chrome/chrome --type=zygote
+krzyszt+  2516  8.8  0.8 688932 130972 ?       Sl   17:42  30:37 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=13413587206397916943,15739657394395621872,131072 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --shared-files
+krzyszt+  2520  4.1  0.5 560884 96444 ?        SLl  17:42  14:18 /opt/google/chrome/chrome --type=utility --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --service-sandbox-type=network --disable-webrtc-apm-in-audio-service --shared-files
+krzyszt+  2588  0.3  1.1 4894108 191140 ?      Sl   17:42   1:09 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files
+krzyszt+  2787  0.5  0.3 784780 57116 ?        Sl   17:42   1:44 /opt/google/chrome/chrome --type=utility --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --service-sandbox-type=audio --disable-webrtc-apm-in-audio-service --shared-files
+krzyszt+  7394  0.0  0.0 611936 10348 ?        Ssl  21:24   0:00 /usr/libexec/xdg-desktop-portal
+krzyszt+  7398  0.0  0.0 489812  6080 ?        Ssl  21:24   0:00 /usr/libexec/xdg-document-portal
+krzyszt+  7401  0.0  0.0 265800  5552 ?        Ssl  21:24   0:00 /usr/libexec/xdg-permission-store
+krzyszt+  7412  0.0  0.0   4624   832 ?        S    21:24   0:00 sh -c /usr/lib/x86_64-linux-gnu/libproxy/0.4.14/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+krzyszt+  7413  0.0  0.0 273364  6164 ?        Sl   21:24   0:00 /usr/lib/x86_64-linux-gnu/libproxy/0.4.14/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+krzyszt+  7417  0.0  0.1 468212 20424 ?        Ssl  21:24   0:00 /usr/libexec/xdg-desktop-portal-gtk
+krzyszt+  7547  0.0  0.0 438708  8372 ?        Sl   21:26   0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.26 /org/gtk/gvfs/exec_spaw/2
+krzyszt+  7557  0.0  0.1 769180 18736 ?        Sl   21:26   0:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.26 /org/gtk/gvfs/exec_spaw/4
+krzyszt+  7587  0.0  0.0 375736  8144 ?        Sl   21:26   0:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.26 /org/gtk/gvfs/exec_spaw/9
+root      7821  0.0  0.0      0     0 ?        I<   21:30   0:01 [kworker/u9:2-rb]
+root      9046  0.0  0.0      0     0 ?        I<   21:42   0:00 [kworker/u9:0-hc]
+root      9061  0.0  0.0      0     0 ?        I<   21:42   0:00 [kworker/2:2H]
+krzyszt+ 11157  0.4  1.0 4873420 164916 ?      Sl   22:29   0:15 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=303 --no-v8-untrusted-code-mitigations --shared-files
+root     11651  0.0  0.0      0     0 ?        I    22:39   0:02 [kworker/u8:0-ev]
+root     11912  0.0  0.0      0     0 ?        I    22:46   0:02 [kworker/u8:3-ev]
+krzyszt+ 12829  0.0  0.5 4762488 87584 ?       Sl   23:04   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=405 --no-v8-untrusted-code-mitigations --shared-files
+root     12915  0.1  0.0      0     0 ?        I    23:07   0:01 [kworker/1:1-eve]
+root     13161  0.0  0.0      0     0 ?        I    23:11   0:00 [kworker/3:3-eve]
+krzyszt+ 13236  0.4  0.8 4855628 138780 ?      Sl   23:12   0:03 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=437 --no-v8-untrusted-code-mitigations --shared-files
+krzyszt+ 13273  0.0  0.5 4770692 86976 ?       Sl   23:15   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=439 --no-v8-untrusted-code-mitigations --shared-files
+root     13338  0.0  0.0      0     0 ?        I    23:15   0:00 [kworker/2:1-eve]
+root     13340  0.0  0.0      0     0 ?        I    23:15   0:00 [kworker/0:4-eve]
+krzyszt+ 13379  4.7  1.1 4896356 195044 ?      Sl   23:15   0:37 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=446 --no-v8-untrusted-code-mitigations --shared-files
+krzyszt+ 13391  0.0  0.5 4770692 87576 ?       Sl   23:15   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=447 --no-v8-untrusted-code-mitigations --shared-files
+root     13455  0.0  0.0      0     0 ?        I    23:19   0:00 [kworker/u8:2-i9]
+root     13478  0.0  0.0      0     0 ?        I    23:21   0:00 [kworker/1:0-mm_]
+root     13487  0.2  0.0      0     0 ?        I    23:21   0:01 [kworker/0:0-eve]
+root     13491  0.1  0.0      0     0 ?        I    23:21   0:00 [kworker/2:0-eve]
+root     13507  0.1  0.0      0     0 ?        I    23:23   0:00 [kworker/3:1-eve]
+krzyszt+ 13553  4.9  1.2 4911684 196168 ?      Sl   23:23   0:15 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=455 --no-v8-untrusted-code-mitigations --shared-files
+krzyszt+ 13589  0.3  0.2 589824 35380 ?        Ssl  23:24   0:01 /usr/lib/gnome-terminal/gnome-terminal-server
+krzyszt+ 13596  0.0  0.0  25148  6580 pts/0    Ss   23:24   0:00 bash
+root     13613  0.0  0.0      0     0 ?        I    23:24   0:00 [kworker/u8:1]
+root     13701  0.1  0.0      0     0 ?        I    23:26   0:00 [kworker/1:2-mm_]
+root     13702  0.0  0.0      0     0 ?        I    23:26   0:00 [kworker/0:1-eve]
+root     13762  0.0  0.0      0     0 ?        I    23:26   0:00 [kworker/2:2-eve]
+krzyszt+ 13791  0.0  0.3 4749944 54196 ?       Sl   23:27   0:00 /opt/google/chrome/chrome --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=13413587206397916943,15739657394395621872,131072 --lang=pl --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=470 --no-v8-untrusted-code-mitigations --shared-files
+krzyszt+ 13846  0.0  0.0  40968  3764 pts/0    R+   23:28   0:00 ps aux
+219 processes.txt
+82:root       653  0.0  0.1 171700 17172 ?        Ssl  17:28   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+84:message+   655  0.0  0.0  51440  5768 ?        Ss   17:28   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+112:krzyszt+  1193  0.0  0.0 282840  8012 ?        Sl   17:29   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+114:krzyszt+  1211  0.0  0.0  50944  5168 ?        Ss   17:29   0:02 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+115:krzyszt+  1262  0.0  0.0  11300   316 ?        Ss   17:29   0:00 /usr/bin/ssh-agent /usr/bin/im-launch cinnamon-session-cinnamon
+117:krzyszt+  1279  0.0  0.0  50188  4504 ?        S    17:29   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+141:krzyszt+  1396  1.1  0.1 1936112 17524 ?       S<l  17:29   4:01 /usr/bin/pulseaudio --start --log-target=syslog
+167:krzyszt+  1639  0.0  0.2 251436 32920 ?        Sl   17:29   0:01 /usr/bin/python3 /usr/share/system-config-printer/applet.py
